@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Groovy-Examples.iml" filepath="$PROJECT_DIR$/Groovy-Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GroovyExercises/GroovyExercises.iml" filepath="$PROJECT_DIR$/GroovyExercises/GroovyExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GroovyInAction/GroovyInAction.iml" filepath="$PROJECT_DIR$/GroovyInAction/GroovyInAction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShivsATM/ShivsATM.iml" filepath="$PROJECT_DIR$/ShivsATM/ShivsATM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwitterClone/TwitterClone.iml" filepath="$PROJECT_DIR$/TwitterClone/TwitterClone.iml" />
+    </modules>
+  </component>
+</project>
